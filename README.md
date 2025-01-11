@@ -20,3 +20,13 @@ Matplotlib, Seaborn, Tableau, Power BI
 
 **Other**
 Parallel Programming, Intelligent Transportation Systems
+
+
+## Projects:
+
+- Developed ML models to optimize electric vehicle charging station place- ment, and utilization prediction.
+- Pioneered embedding vector analysis techniques for EV charging station optimization, improving utilization predictions
+- Built CNN models for detecting invasive ductal carcinoma in whole slide images, achieving 92% accuracy
+- Research on Electric Vehicle Identification in Low-Sampling Non-Intrusive Load Monitoring Systems Using Machine Learning.
+- DOT Project: Research on Feasibility of Real-Time Infrastructure-Driven Intervention for Improving Pedestrian Safety. Test different communication options for vehicle-to-pedestrian (V2P) systems.
+- Research on Road Traffic Accident Severity Prediction Using ML.
