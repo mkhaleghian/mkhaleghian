@@ -8,11 +8,15 @@ Results-driven Data Scientist and PhD candidate with expertise in machine learni
 
 **Programming**
 Python, SQL, C++, MATLAB, R
+
 **Data Science**
 Machine Learning, Deep Learning, Data Analysis, Feature Engineering, Model Evaluation
+
 **Machine Learning & AI**
 TensorFlow, PyTorch, Keras, Scikit-learn, Numpy, Pandas, Scipy
+
 **Data Visualization**
 Matplotlib, Seaborn, Tableau, Power BI
+
 **Other**
 Parallel Programming, Intelligent Transportation Systems
