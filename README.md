@@ -1,3 +1,4 @@
+# Hi! I'm Mehdi. 
 # About Mehdi Khaleghian!
 
 Results-driven Data Scientist and PhD candidate with expertise in machine learning, deep learning, and smart city technologies. Demonstrated success in developing high-impact ML models for electric vehicle infrastructure, health- care imaging, and transportation systems. Strong track record of converting complex data into actionable insights with 3+ years of hands-on experience in applied machine learning research
