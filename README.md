@@ -24,7 +24,7 @@ Parallel Programming, Intelligent Transportation Systems
 
 ## Projects:
 
-- Developed ML models to optimize electric vehicle charging station place- ment, and utilization prediction.
+- Developed ML models to optimize electric vehicle charging station placement, and utilization prediction.
 - Pioneered embedding vector analysis techniques for EV charging station optimization, improving utilization predictions
 - Built CNN models for detecting invasive ductal carcinoma in whole slide images, achieving 92% accuracy
 - Research on Electric Vehicle Identification in Low-Sampling Non-Intrusive Load Monitoring Systems Using Machine Learning.
