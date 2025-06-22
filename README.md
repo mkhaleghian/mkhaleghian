@@ -33,5 +33,5 @@ Parallel Programming, Intelligent Transportation Systems
 - Research on Road Traffic Accident Severity Prediction Using ML.
 
 ## Contact
-- Email: kpk628@mocs.utc.edu
+- Email: mehdi-khaleghian@utc.edu
 - [LinkedIn](https://www.linkedin.com/in/mkhaleghian/)
